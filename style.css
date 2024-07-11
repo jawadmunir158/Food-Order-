@@ -131,19 +131,19 @@
 }
 
 .circle:nth-child(1) {
-    background-image: url("image/2.png");
+    background-image: url("2.png");
 }
 
 .circle:nth-child(2) {
-    background-image: url("image/1.png");
+    background-image: url("1.png");
 }
 
 .circle:nth-child(3) {
-    background-image: url("image/3.png");
+    background-image: url("3.png");
 }
 
 .circle:nth-child(4) {
-    background-image: url("image/4.png");
+    background-image: url("4.png");
 }
 
 .menu .circle:hover {
@@ -161,7 +161,7 @@
     background-size: 90%;
     background-repeat: no-repeat;
     transition: transform 3s;
-    background-image: url("image/2.png");
+    background-image: url("2.png");
 }
 
 /* Responsive Styles */
